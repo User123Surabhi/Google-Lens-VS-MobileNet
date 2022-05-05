@@ -1,0 +1,203 @@
+#title {
+    background-color: rgb(17, 0, 255);
+    width:500px;
+    color:aliceblue;
+    border-radius: 10px;
+    
+}
+
+#TurnballRacket {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#racket {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+
+#bubblegun {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#bubble {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#cork {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#corkimg {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#pen {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#gelpen {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#gembox {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#box {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#headphones {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#headp {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#facemask {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#mask {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#compmouse {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#mouse {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#seashell {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#shell {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#skinnypillow {
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 700px;
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height:150px;
+    margin-top:20px;
+    box-shadow:10px,10px, black;
+    
+}
+#skinny {
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left: 15px;
+    margin-top:20px;
+    
+}
+#outro {
+    background-color: black;
+    color:antiquewhite;
+}
